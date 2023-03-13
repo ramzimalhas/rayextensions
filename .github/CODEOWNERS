@@ -13,13 +13,14 @@
 /extensions/advice-slip                              @pernielsentikaer @andreaselia
 /extensions/ai-gen                                   @josephschmitt
 /extensions/airplane                                 @pradeepb28
+/extensions/airpods-noise-control                    @chrahe
 /extensions/airport                                  @siddharthsharma94
 /extensions/airsy                                    @piotrzaborow
 /extensions/airtable                                 @marks @SeanKeenan-at @pernielsentikaer
 /extensions/algolia                                  @valentindotxyz
 /extensions/aliyun-oss                               @yangxyo
 /extensions/alpinejs-doc-search                      @aurawindsurfing
-/extensions/amazon-aws                               @victor-falcon @Hodglim @JonathanWbn @gebeto @momme-rtf @duboiss @hexpl0it @crisboarna @sidhant92
+/extensions/amazon-aws                               @victor-falcon @Hodglim @JonathanWbn @gebeto @momme-rtf @duboiss @hexpl0it @crisboarna @sidhant92 @DorukAkinci
 /extensions/amphetamine                              @gstvds
 /extensions/android                                  @MohamedISoliman
 /extensions/android-adb-input                        @STAR-ZERO
@@ -301,7 +302,7 @@
 /extensions/gitpod                                   @henit-chobisa @Palanikannan1437
 /extensions/go-package-search                        @bstncartwright @k8scat
 /extensions/google-books                             @Ali-Parandeh
-/extensions/google-chrome                            @rgomezcasas @bromanko @crisboarna
+/extensions/google-chrome                            @rgomezcasas @bromanko @crisboarna @andreaselia
 /extensions/google-chrome-profiles                   @frouo
 /extensions/google-cloud-platform-search             @klaa97
 /extensions/google-drive                             @vishaltelangre @nametake @daniel-stoneuk
@@ -470,6 +471,7 @@
 /extensions/microsoft-azure                          @crisboarna
 /extensions/microsoft-edge                           @KartikKumarSahoo @bromanko @crisboarna
 /extensions/miro                                     @felixhaeberle @mathieudutour
+/extensions/mixpanel                                 @smsimone
 /extensions/mlb-scores                               @jso8910
 /extensions/mldocs                                   @sadanand-singh
 /extensions/mochi                                    @kawamataryo
@@ -548,6 +550,7 @@
 /extensions/orion                                    @Plonq
 /extensions/oss-browser                              @404J
 /extensions/ossinsight                               @k8scat @pernielsentikaer
+/extensions/package-tracker                          @cojmeister
 /extensions/pagerduty                                @horimislime
 /extensions/palette-colors                           @douglas-pires
 /extensions/palette-picker                           @juliusmarminge
@@ -662,7 +665,7 @@
 /extensions/sabnzbd                                  @jesse-c
 /extensions/safari                                   @loris @thomaspaulmann
 /extensions/salesforce-search                        @svenwiegand
-/extensions/savvycal                                 @keturiosakys @pernielsentikaer @derrickreimer
+/extensions/savvycal                                 @keturiosakys @pernielsentikaer @derrickreimer @vimtor
 /extensions/scaleway                                 @philibea @flozdra
 /extensions/scrcpy                                   @zcfan
 /extensions/screen-saver                             @koinzhang
@@ -793,6 +796,7 @@
 /extensions/two-factor-authentication-code-generator @cjdenio
 /extensions/typeform-navigator                       @jdvr
 /extensions/typefully                                @DanielFerguson @pernielsentikaer @thomaspaulmann
+/extensions/typer                                    @yaronschwimmer
 /extensions/typescript-documentation-search          @chezhe
 /extensions/typographer                              @mikeozornin
 /extensions/ulysses                                  @praveenjuge
