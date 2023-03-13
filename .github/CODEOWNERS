@@ -33,7 +33,7 @@
 /extensions/apple-developer-docs                     @CaliCastle
 /extensions/apple-maps-search                        @djpowers @ratoru
 /extensions/apple-notes                              @tumispro @ron-myers @mathieudutour @StevenRCE0
-/extensions/arc                                      @thomaspaulmann @pomdtr @zach-fuller @ankitchouhan1020
+/extensions/arc                                      @thomaspaulmann @pomdtr @zach-fuller @ankitchouhan1020 @pernielsentikaer
 /extensions/archiver                                 @404J
 /extensions/asana                                    @thomaslombart
 /extensions/associated-press                         @Dammmien
@@ -491,7 +491,7 @@
 /extensions/must                                     @eggsy
 /extensions/my-daily-log                             @frugoman
 /extensions/myanimelist-search                       @luknl
-/extensions/myip                                     @kkange
+/extensions/myip                                     @kkange @iwyvi
 /extensions/n8n                                      @koinzhang
 /extensions/namespaces                               @GastroGeek
 /extensions/nanoid                                   @roelvan
@@ -617,6 +617,7 @@
 /extensions/railway                                  @coffee-cup
 /extensions/rain-radars                              @danieldbird @koinzhang
 /extensions/raindrop                                 @lardissone
+/extensions/ramda-documentation                      @jbroomer
 /extensions/random-data-generator                    @loris @Calvein @pernielsentikaer
 /extensions/random-email                             @rkjaer
 /extensions/random-password-generator                @textnav
@@ -624,6 +625,7 @@
 /extensions/ray-so                                   @gt-codes @RSO @dgrzedzielski
 /extensions/raycast-icons                            @PitNikola @peduarte
 /extensions/raycast-wallpaper                        @koinzhang
+/extensions/raycast-wemo                             @IAmNatch
 /extensions/raynab                                   @gogocharli
 /extensions/react-docs                               @webdiego
 /extensions/react-icons                              @yug2005
@@ -662,6 +664,7 @@
 /extensions/salesforce-search                        @svenwiegand
 /extensions/savvycal                                 @keturiosakys @pernielsentikaer @derrickreimer
 /extensions/scaleway                                 @philibea @flozdra
+/extensions/scrcpy                                   @zcfan
 /extensions/screen-saver                             @koinzhang
 /extensions/screen-sharing-recents                   @m-hall
 /extensions/screenshot                               @Aayush9029
