@@ -1,5 +1,13 @@
 # Amazon AWS Changelog
 
+## [Extend Support AWS Vault] - 2023-04-28
+
+- Add support for people using aws-vault with the GetSessionToken API call.
+
+## [Support AWS Vault] - 2023-04-03
+
+- Add support for people using aws-vault to manage their sessions.
+
 ## [Add Profile Script Command] - 2023-03-15
 
 - Add "Run Profile Script" command that allows users to list profiles and run a custom script for them.
