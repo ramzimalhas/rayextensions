@@ -103,6 +103,14 @@ jobs:
             echo 'has_commit=false' >> $GITHUB_OUTPUT
           fi
 
+      # Begin AppMap bootstrap archive step
+      - name: Archive AppMaps
+        id: appmap-bootstrap-archive-appmaps
+        uses: getappmap/archive-action@v1
+        with:
+          revision: ${{ github.event.pull_request.base.sha }}
+      # End AppMap bootstrap archive step
+
       - name: Open PR on the main repo
         uses: actions/github-script@v7
         if: steps.commit.outputs.has_commit == 'true'
