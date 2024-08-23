@@ -25,7 +25,7 @@
     "@supabase/supabase-js": "^2.43.4",
     "color-hash": "^2.0.2",
     "date-fns": "^3.6.0",
-    "hono": "^4.4.6",
+    "hono": "^4.5.8",
     "swr": "^2.2.5",
     "undici": "^6.19.0"
   },
