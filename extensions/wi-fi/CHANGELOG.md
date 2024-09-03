@@ -1,5 +1,15 @@
 # Wi-Fi Changelog
 
+## [Removed Exception Capture] - 2024-08-05
+
+## [Bug Fix] - 2024-07-29
+
+- Fixing Menubar Wi-Fi bugs
+
+## [Show IP Address] - 2024-07-26
+
+- Menubar Wi-Fi command supports show IP Address in the menu bar
+
 ## [Goodbye, Scan Wi-Fi command] - 2024-07-24
 
 - The airport command line tool is deprecated and the Scan Wi-Fi command based on it is removed.

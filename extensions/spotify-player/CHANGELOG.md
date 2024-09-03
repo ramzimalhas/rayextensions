@@ -1,5 +1,17 @@
 # Spotify Player Changelog
 
+## [Quicklink to Add Playing Song to Playlist] - 2024-08-29
+
+- Adds an action to create a quicklink to add the currently playing song to a specific playlist.
+
+## [Add Preference to Only Show Music in Search Command] - 2024-08-26
+
+- Added a preference to only show music results in the search command for users who don't want to see podcasts and episodes.
+
+## [Add "Remove All Searches" Action in Search Command] - 2024-08-22
+
+- Added `Remove All Searches` action to remove all search history in one click.
+
 ## [Log out the user if re-authentication fails] - 2024-07-11
 
 - Automatically log out users if re-authentication fails, instead of displaying an error message.
