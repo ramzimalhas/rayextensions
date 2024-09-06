@@ -511,7 +511,7 @@
   "dependencies": {
     "@raycast/api": "^1.67.1",
     "handlebars": "^4.7.8",
-    "zx": "^7.2.3"
+    "zx": "^8.0.0"
   },
   "devDependencies": {
     "@leondaz/eslint-config": "^1.0.12",
