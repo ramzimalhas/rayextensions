@@ -21,7 +21,7 @@
   "dependencies": {
     "@raycast/api": "^1.40.1",
     "date-fns": "^2.29.3",
-    "got": "^12.5.1"
+    "got": "^12.6.0"
   },
   "devDependencies": {
     "@types/node": "^18.8.0",
