@@ -61,7 +61,7 @@
   "dependencies": {
     "@raycast/api": "^1.70.0",
     "@raycast/utils": "^1.13.3",
-    "crossbell": "^1.11.9",
+    "crossbell": "^1.12.0",
     "dayjs": "^1.11.10",
     "node-fetch-native": "^1.6.2",
     "p-limit": "^5.0.0"
