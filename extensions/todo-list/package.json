@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@raycast/api": "^1.52.1",
-    "@raycast/utils": "^1.1.0",
+    "@raycast/utils": "^1.4.8",
     "dayjs": "^1.10.7",
     "jotai": "^1.4.0",
     "lodash": "^4.17.21",
