@@ -112,7 +112,7 @@
         "color-namer": "^1.4.0",
         "fuse.js": "^6.6.2",
         "node-fetch": "^3.0.0",
-        "parse-url": "^6.0.5",
+        "parse-url": "^7.0.0",
         "run-applescript": "^6.0.0",
         "slugify": "1.6.5",
         "tinycolor2": "^1.4.2"
