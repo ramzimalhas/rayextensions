@@ -105,7 +105,7 @@
     "@xstate/react": "^3.2.2",
     "bonjour-service": "^1.2.1",
     "chroma-js": "^2.4.2",
-    "jimp": "^0.22.10",
+    "jimp": "^1.0.2",
     "stream-json": "^1.8.0",
     "xstate": "^4.38.3"
   },
