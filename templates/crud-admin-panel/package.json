@@ -36,7 +36,7 @@
   ],
   "dependencies": {
     "@raycast/api": "latest",
-    "@raycast/utils": "^1.4.7",
+    "@raycast/utils": "^1.4.8",
     "email-validator": "^2.0.4",
     "nanoid": "^4.0.0",
     "node-fetch": "^3.2.10"
