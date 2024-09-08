@@ -40,7 +40,7 @@
   "dependencies": {
     "@raycast/api": "^1.53.4",
     "@raycast/utils": "^1.12.3",
-    "axios": "^0.27.2",
+    "axios": "^1.6.8",
     "date-fns": "^2.29.1",
     "lodash": "^4.17.21",
     "node-html-markdown": "^1.2.0"
