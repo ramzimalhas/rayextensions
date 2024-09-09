@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.44.0",
-    "got": "^12.5.3",
+    "got": "^12.6.0",
     "nanoid": "^4.0.0"
   },
   "devDependencies": {
