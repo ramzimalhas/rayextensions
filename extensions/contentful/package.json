@@ -54,7 +54,7 @@
   "dependencies": {
     "@raycast/api": "^1.79.0",
     "@raycast/utils": "^1.16.2",
-    "contentful-management": "^11.30.2"
+    "contentful-management": "^11.31.7"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",
