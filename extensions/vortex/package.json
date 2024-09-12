@@ -117,7 +117,7 @@
     "@raycast/api": "^1.74.1",
     "cross-fetch": "^4.0.0",
     "qrcode": "^1.5.3",
-    "websocket-polyfill": "^0.0.3"
+    "websocket-polyfill": "^1.0.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",
