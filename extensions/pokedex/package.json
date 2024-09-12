@@ -85,7 +85,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.68.1",
-    "axios": "^1.6.7",
+    "axios": "^1.6.8",
     "json2md": "^2.0.1",
     "lodash.groupby": "^4.6.0"
   },
