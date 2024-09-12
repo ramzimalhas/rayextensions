@@ -85,7 +85,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.48.0",
-    "axios": "^0.26.1",
+    "axios": "^1.6.8",
     "react-hooks-global-state": "^2.1.0",
     "run-applescript": "^7.0.0"
   },
