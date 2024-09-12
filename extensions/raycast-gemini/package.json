@@ -492,7 +492,7 @@
     "@raycast/api": "^1.62.0",
     "@raycast/utils": "^1.9.0",
     "gemini-ai": "^2.0.1",
-    "jimp": "^0.22.10",
+    "jimp": "^1.0.2",
     "node-fetch": "^3.3.2"
   },
   "devDependencies": {
