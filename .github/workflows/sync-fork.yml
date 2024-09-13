@@ -1,0 +1,21 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Sync Fork
+        run: |
+          git remote add upstream https://github.com/raycast/extensions.git
+          git fetch upstream
+          git checkout main
+          git merge upstream/main
+          git push origin main
