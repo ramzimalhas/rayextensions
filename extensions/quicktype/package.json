@@ -18,7 +18,7 @@
     }],
     "dependencies": {
         "@raycast/api": "^1.31.0",
-        "quicktype-core": "^6.0.71"
+        "quicktype-core": "^7.0.20"
     },
     "devDependencies": {
         "@types/node": "~16.10.0",
