@@ -360,7 +360,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.39.3",
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "languagedetect": "^2.0.0"
   },
   "devDependencies": {
