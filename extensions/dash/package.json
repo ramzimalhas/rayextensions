@@ -60,7 +60,7 @@
     "html-entities": "2.3.2",
     "node-fetch": "3.0.0",
     "raycast-toolkit": "1.0.3",
-    "tempy": "2.0.0"
+    "tempy": "3.0.0"
   },
   "devDependencies": {
     "@types/node": "16.10.9",
