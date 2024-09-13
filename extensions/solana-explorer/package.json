@@ -87,8 +87,8 @@
     "@raycast/api": "^1.46.1",
     "@raycast/utils": "^1.4.16",
     "@solana/spl-token-registry": "^0.2.4574",
-    "@solana/web3.js": "^1.73.0",
-    "axios": "^1.2.6",
+    "@solana/web3.js": "^1.95.1",
+    "axios": "^1.6.8",
     "use-debounce": "^9.0.3"
   },
   "devDependencies": {
