@@ -97,7 +97,7 @@
   ],
   "dependencies": {
     "@putdotio/api-client": "^8.36.1",
-    "@putdotio/utilities": "^1.1.0",
+    "@putdotio/utilities": "^1.2.0",
     "@raycast/api": "^1.52.1",
     "@raycast/utils": "^1.4.8"
   },
