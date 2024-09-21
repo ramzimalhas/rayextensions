@@ -27,7 +27,7 @@
     "dayjs": "^1.11.10",
     "events": "^3.3.0",
     "immer": "^10.0.3",
-    "socket.io-client": "^4.7.2",
+    "socket.io-client": "^4.8.0",
     "zustand": "^4.4.3"
   },
   "devDependencies": {
